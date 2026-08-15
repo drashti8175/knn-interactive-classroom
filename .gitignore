@@ -1,0 +1,17 @@
+﻿__pycache__/
+*.py[cod]
+*.pyo
+venv/
+.venv/
+.env/
+.streamlit/secrets.toml
+.DS_Store
+Thumbs.db
+*.zip
+pasted_content.txt
+knn-interactive-classroom-full-project-overview.html
+KNN Interactive Classroom.md
+*.pyc
+.pytest_cache/
+.coverage
+htmlcov/
